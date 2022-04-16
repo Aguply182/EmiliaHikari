@@ -1,5 +1,5 @@
-if not __main__.py.("sample_config"):
-    import sys
+# Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
+
 import json
 
 import os
